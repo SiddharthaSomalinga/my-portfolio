@@ -186,13 +186,9 @@ const About = () => {
           <div>
             <p>Hello!</p>
             <p>
-              I specialize in computer science, cybersecurity, and data
-              analytics, with a focus on fullstack development. I’m always
-              challenging myself to learn more and explore new technologies.
-              Outside of coding, I’m involved in hackathons, CTF challenges, and
-              data-driven projects. I enjoy turning complex problems into simple
-              and elegant solutions. Outside of tech, I love traveling, hiking,
-              camping, gaming, music, and skateboarding.
+            Hello! I'm Siddhartha Somalinga, a dedicated software developer who has modern day experience in many fields. My expertise lies in not only software development, but also the furthering of a company's success through making processes more efficient. 
+
+I enjoy working in collaborative environments which help with producing quality solutions. My experience working closely with project managers has also enabled me to set attainable goals and achieve them in software development. Let's connect and explore how we can drive technological innovation together!
             </p>
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
